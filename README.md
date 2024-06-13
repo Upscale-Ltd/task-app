@@ -2,12 +2,31 @@
 
 ## 💪🏼 The Challenge
 
-We'd like you to use this basic app scaffold to create a simple task app. The aim of this task is to give you an oppotunity to showcase your experience as a full stack developer. We've created a bare bones task app in the same stack we work in using the Laravel PHP framework, VueJs, InertiaJs and TailwindCSS.
+We'd like you to use this basic app scaffold to create a simple task app. The aim of this task is to give you an oppotunity to showcase some of your experience as a full stack developer. We've created a bare bones task app in the same stack we work in using the Laravel PHP framework, VueJs, InertiaJs and TailwindCSS.
 
-[] Task 1
-[] Task 2
+### Getting started
+- [] To get going you'll need to fork this repo and clone it to your dev environment
+- [] Next `composer install`, run the migrations and seed the database
+- [] Then `npm install` and run the dev watcher with `npm run dev`
+- [] Login with credentials: *test@example.com* and *password*
 
-Are you more of a frontend or backend dev? No worries. Do what you can to complete the task and we'll chat through your approach and anything you may have found challenging during your interview.
+### Development Tasks
+You'll find a basic start for the task app in the Dashboard.vue page component. The tasks we'd like you to complete are as follows:
+
+- [] A user must be able to add a task with a description and an optional due date
+- [] A user must be able to view their tasks in an ordered list based on due or creation date
+- [] A user must be able to update the state of the task to complete/incomplete
+
+Bonus points for the use of:
+- Form validation when creating the task
+- The [InertiaJs](https://inertiajs.com/forms) form helper for form submission
+- [DayJs](https://day.js.org/) library to format and display dates in the page
+- Any [HeadlessUI](https://headlessui.com/v1/vue) components that might supoort your creation of the UI
+- Relevant user feedback in the UI for interactions you create
+- Adding a comment with the phrase #devmode somewhere in your code
+- Adding whatever flavour you like to showcase your skills ✨🦄😉
+
+If you're more of a frontend or backend dev, no worries. Do what you can to complete the tasks and we'll chat through your approach and anything you may have found challenging during your interview.
 
 Good luck and happy coding! 🙌🏼
 

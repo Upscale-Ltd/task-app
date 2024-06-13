@@ -5,17 +5,17 @@
 We'd like you to use this basic app scaffold to create a simple task app. The aim of this task is to give you an oppotunity to showcase some of your experience as a full stack developer. We've created a bare bones task app in the same stack we work in using the Laravel PHP framework, VueJs, InertiaJs and TailwindCSS.
 
 ### Getting started
-- [] To get going you'll need to fork this repo and clone it to your dev environment
-- [] Next `composer install`, run the migrations and seed the database
-- [] Then `npm install` and run the dev watcher with `npm run dev`
-- [] Login with credentials: *test@example.com* and *password*
+- To get going you'll need to fork this repo and clone it to your dev environment
+- Next `composer install`, run the migrations and seed the database
+- Then `npm install` and run the dev watcher with `npm run dev`
+- Login with credentials: *test@example.com* and *password*
 
 ### Development Tasks
 You'll find a basic start for the task app in the Dashboard.vue page component. The tasks we'd like you to complete are as follows:
 
-- [] A user must be able to add a task with a description and an optional due date
-- [] A user must be able to view their tasks in an ordered list based on due or creation date
-- [] A user must be able to update the state of the task to complete/incomplete
+- [ ] A user must be able to add a task with a description and an optional due date
+- [ ] A user must be able to view their tasks in an ordered list based on due or creation date
+- [ ] A user must be able to update the state of the task to complete/incomplete
 
 Bonus points for the use of:
 - Form validation when creating the task
